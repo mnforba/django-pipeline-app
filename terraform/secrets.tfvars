@@ -1,0 +1,1 @@
+my_ip="10.0.0.146" // replace 0.0.0.0 with your IP address
